@@ -36,7 +36,7 @@ All formal proofs in `lean/TONE_Universal_Verification.lean` rely strictly on Le
 
 To check the proofs on your machine:
 ```bash
-git clone https://github.com
+git clone https://github.com/frintroper/Symmetry-No-Symmetry
 cd Symmetry-No-Symmetry
 lake build
 ```
